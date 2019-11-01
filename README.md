@@ -1,4 +1,5 @@
-[![Coverage Status](https://img.shields.io/coveralls/Esri/geoportal-server.svg)](https://coveralls.io/r/Esri/geoportal-server) <a href="https://scan.coverity.com/projects/3614">
+[![Coverage Status](https://img.shields.io/coveralls/Esri/geoportal-server.svg)](https://coveralls.io/r/Esri/geoportal-server) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKeithRyden%2Fgeoportal-server_test.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKeithRyden%2Fgeoportal-server_test?ref=badge_shield)
+<a href="https://scan.coverity.com/projects/3614">
   <img alt="Coverity Scan Build Status"
        src="https://scan.coverity.com/projects/3614/badge.svg"/>
 </a>
@@ -75,3 +76,6 @@ limitations under the License.
 A copy of the license is available in the repository's [license.txt]( https://raw.github.com/Esri/geoportal-server/master/LICENSE.txt) file.
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKeithRyden%2Fgeoportal-server_test.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKeithRyden%2Fgeoportal-server_test?ref=badge_large)
